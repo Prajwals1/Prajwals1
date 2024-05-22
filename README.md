@@ -8,16 +8,16 @@
 </div>
  
  ## Skills (Tech Stack)
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly; gap: 300px; margin: 20px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly; gap: 40px; margin: 20px;">
   <img height="80" alt="Prajwal-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img height="80" alt="Prajwal-Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg">
   <img height="80" alt="Prajwal-Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img height="80" alt="Prajwal-Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">
   <img height="80" alt="Prajwal-Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
   <img height="80" alt="Prajwal-Scikitlearn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-  <img height="60" alt="Prajwal-Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
-  <img height="60" alt="Prajwal-Streamlit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
-  <img height="60" alt="Prajwal-VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img height="80" alt="Prajwal-Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
+  <img height="80" alt="Prajwal-Streamlit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
+  <img height="80" alt="Prajwal-VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="right" height="180" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div>
 
