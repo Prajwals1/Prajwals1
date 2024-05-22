@@ -8,7 +8,7 @@
 </div>
  
  ## Skills (Tech Stack)
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly; gap: 80px; margin: 20px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly; gap: 100px; margin: 20px;">
   <img height="80" alt="Prajwal-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img height="80" alt="Prajwal-Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg">
   <img height="80" alt="Prajwal-Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
