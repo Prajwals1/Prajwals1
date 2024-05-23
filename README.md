@@ -3,7 +3,7 @@
 
  <div>
   <a href="https://github.com/Prajwals1">
-   <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwals1&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwals1&layout=compact&langs_count=16&theme=dracula"/>
    <img align="center" height="180" alt="Erica-yoda" src="https://media.licdn.com/dms/image/D5612AQE4Qbm-IfchVw/article-inline_image-shrink_400_744/0/1681986754638?e=1720656000&v=beta&t=a8nBKsPVMO3k6MEODoKkW-yQOvpfQ75nLT9ysXSLNEQ">
 </div>
 
