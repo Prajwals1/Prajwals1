@@ -36,6 +36,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/Prajwals1/Prajwals1/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Prajwals1/Prajwals1/blob/output/github-contribution-grid-snake.gif)
  
 </div>
